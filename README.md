@@ -29,7 +29,7 @@ This project focuses on enhancing safety for elderly and mobility-impaired indiv
 
 1️⃣ Clone the Repository:
 
-git clone https://github.com/yourusername/Smart-Emergency-Response-System.git
+git clone https://github.com/darksoul913/Smart-Emergency-Response-System.git
 cd Smart-Emergency-Response-System
 
 2️⃣ Install Dependencies:
