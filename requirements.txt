@@ -1,0 +1,11 @@
+opencv-python
+numpy
+flask
+requests
+paho-mqtt
+scipy
+matplotlib
+pandas
+tensorflow
+torch
+RPi.GPIO
